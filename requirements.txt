@@ -1,8 +1,12 @@
-streamlit 
-python-dotenv 
-langchain 
-langchain_core
+streamlit
+python-dotenv
+langchain
+langchain-core
 langchain-openai
-langchain_community
+langchain-community
 langchain-google-genai
 langchain-ollama
+fastapi
+uvicorn
+langserve
+sse_starlette
